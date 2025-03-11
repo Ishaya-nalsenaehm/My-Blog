@@ -78,10 +78,11 @@ q { color: aqua;
  
 }
 
-div1 {
-
-padding: 25px;
-
+div {
+  padding: 35px;
+  background-color: orange;
+  box-sizing: border-box;
+  border: 35px orange;
 }
 
 a {
