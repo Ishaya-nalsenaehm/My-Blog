@@ -52,6 +52,7 @@ body {
   overflow: auto; 
   size: 500;
   background-color: black;
+  text-align: center;
 }
 
 .navbar a {
@@ -77,4 +78,5 @@ body {
 
 q { color: aqua;
  }
+
 
