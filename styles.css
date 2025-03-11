@@ -78,4 +78,5 @@ body {
 div {
   padding: 35px;
   background-color: black;
+  box-sizing: border-box;
 }
