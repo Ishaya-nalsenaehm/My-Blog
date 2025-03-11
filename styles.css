@@ -59,12 +59,12 @@ body {
 }
 
 .navbar a {
-  float: left;
+  float: middle;
   padding: 12px;
   color: white;
   text-decoration: none;
   font-size: 25px;
-  width: 20%; 
+  width: 50%; 
   text-align: center;
 }
 .topnav {
