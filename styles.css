@@ -74,7 +74,7 @@ body {
   
 }
  q { color: aqua;
-
-
  }
-
+div {
+  padding: 25px 50px
+}
