@@ -78,9 +78,3 @@ body {
 q { color: aqua;
  }
 
-div.ex2 {
-  padding: 35px;
-  background-color: black;
-  box-sizing: border-box;
-  border: 35px black;
-}
