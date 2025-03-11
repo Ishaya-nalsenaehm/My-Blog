@@ -4,3 +4,77 @@ body {
   color: black;
   font-family: Verdana;
 }
+
+ h1 {
+    color: rgb(0, 0, 0);
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-weight: bolder;
+   }
+ h2{
+    color: rgba(238, 104, 8, 0.903);
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding: 40px;
+ }
+ h3{
+   color: rgb(255, 120, 2);
+   font-size: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bolder;
+   padding: 40px;
+ }
+  h5 {
+    color: rgb(0, 0, 0);
+    font-size: 19px;
+    font-family: Helvetica, sans-serif ;
+    font-weight: ;
+   }
+ header{ color: aqua;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+ }
+ h4 {color: orange;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 40px;
+}
+
+  p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+   }
+   .navbar {
+  width: 100%;
+  background-color: orange;
+  overflow: auto; 
+  size: 500;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  width: 20%; 
+  text-align: center;
+}
+.topnav {
+  overflow: hidden;
+  background-color: black; }
+
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  
+}
+ q { color: aqua;
+
+
+ }
+</style>
