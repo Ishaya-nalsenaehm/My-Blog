@@ -74,9 +74,7 @@ h1 {
   background-color: orange;
   overflow: auto; 
   padding: 35px;
-  background-color: black;
-  box-sizing: border-box;
-  border: 35px orange;
+
   
 }
 
