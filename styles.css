@@ -6,6 +6,7 @@ body {
 }
 
 
+
   img {
   display: block;
   margin-left: auto;
@@ -14,10 +15,19 @@ body {
   
 }
  h1 {
-    color: rgb(0, 0, 0);
+0% {color: rgb(196, 30, 58) 0 0 10px rgb(196, 30, 58);)
+10% {color: rgb(255, 120, 2) 0 0 10px rgb(255, 120, 2);)
+20% {color: rgb(255, 204, 2) 0 0 10px rgb(255, 204, 2);)
+30% {color: rgb(166, 255, 2) 0 0 10px rgb(166, 255, 2;)
+40% {color: rgb(2, 225, 255) 0 0 10px rgb(2, 225, 255);)
+50% {color: rgb(2, 48, 255) 0 0 10px rgb(2, 48, 255);)
+60% {color: rgb(162, 2, 255) 0 0 10px rgb(162, 2, 255);)
+70% {color: rgb(255, 2, 179) 0 0 10px rgb(255, 2, 179);)
+80% {color: rgb(255, 2, 179) 0 0 10px rgb(255, 2, 179);)
     font-size: 85px;
     font-family: Arial, Helvetica, sans-serif ;
     font-weight: bolder;
+    animation:disco 2s linear infinite;
    }
  h2{
     color: rgba(238, 104, 8, 0.903);
