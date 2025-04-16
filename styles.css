@@ -27,7 +27,9 @@ body {
   80% { color: rgb(255, 2, 179); text-shadow: 0 0 10px rgb(255, 2, 179); }
 }
 
-
+.disco-text {
+  animation: disco 2s linear infinite;
+}   
 
 h1 {
     font-size: 85px;
