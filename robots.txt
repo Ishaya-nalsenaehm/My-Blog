@@ -17,7 +17,7 @@ Allow: /
 #User-agent: ClaudeBot
 #User-agent: cohere-ai
 #User-agent: Diffbot
-#User-agent: DuckAssistBot
+/User-agent: DuckAssistBot
 #User-agent: FacebookBot
 #User-agent: FriendlyCrawler
 /User-agent: Google-Extended
