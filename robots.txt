@@ -1,5 +1,3 @@
-# This file tells search engines and bots what they are allowed to see on your site.
-
 # This is the default rule, which allows search engines to crawl your site (recommended).
 User-agent: *
 Allow: /
@@ -12,19 +10,19 @@ Allow: /
 #User-agent: Applebot-Extended
 #User-agent: Bytespider
 #User-agent: CCBot
-/User-agent: ChatGPT-User
+#User-agent: ChatGPT-User
 #User-agent: Claude-Web
 #User-agent: ClaudeBot
 #User-agent: cohere-ai
 #User-agent: Diffbot
-/User-agent: DuckDuckBot
-/User-agent: DuckAssistBot
+#User-agent: DuckDuckBot
+#User-agent: DuckAssistBot
 #User-agent: FacebookBot
 #User-agent: FriendlyCrawler
-/User-agent: Google-Extended
-/User-agent: GoogleOther
-/User-agent: GoogleOther-Image
-/User-agent: GoogleOther-Video
+#User-agent: Google-Extended
+#User-agent: GoogleOther
+#User-agent: GoogleOther-Image
+#User-agent: GoogleOther-Video
 #User-agent: GPTBot
 #User-agent: iaskspider/2.0
 #User-agent: ICC-Crawler
