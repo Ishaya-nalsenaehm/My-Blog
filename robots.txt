@@ -1,5 +1,3 @@
- robots.txt file for https://www.001154.xyz
-
 # Allow specific bots
 User-agent: Bingbot
 Allow: /
