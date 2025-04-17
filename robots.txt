@@ -44,4 +44,6 @@ Allow: /
 #User-agent: VelenPublicWebCrawler
 #User-agent: Webzio-Extended
 #User-agent: YouBot
+#User-agent: Bingbot
+#User-agent: AdldxBot
 #Disallow: /
