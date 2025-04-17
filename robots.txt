@@ -1,3 +1,30 @@
-User-agent: *
+ robots.txt file for https://www.001154.xyz
+
+# Allow specific bots
+User-agent: Bingbot
 Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: googlebot-image
+Allow: /
+
+User-agent: MSNBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: yahoo-blogs/v3.9
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Block all other bots
+User-agent: *
+Disallow: /
+
+# Sitemap location
 Sitemap: https://www.001154.xyz/sitemap.xml
