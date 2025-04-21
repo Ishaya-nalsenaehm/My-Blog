@@ -15,6 +15,10 @@ body {
   
 }
 
+.transparent-link {
+    background-color: transparent !important; /* Ensures it overrides any conflicting styles */
+}
+
 @keyframes disco {
   0% { color: rgb(196, 30, 58); text-shadow: 0 0 10px rgb(196, 30, 58); }
   10% { color: rgb(255, 120, 2); text-shadow: 0 0 10px rgb(255, 120, 2); }
